@@ -14,11 +14,6 @@ body{
     text-align: center;
     justify-content: center;
 }
-#img1{
-    border-radius: 5px;
-    width: 303px;
-    height: 450px;
-}
 
 #text{
     align-self: center;
